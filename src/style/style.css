@@ -1,0 +1,50 @@
+.entry_button {
+ 
+}
+
+.btn-group>.btn:first-child {
+    margin-left: 50px;
+}
+
+.login_page {
+    border: 1px solid rgb(180, 15, 185);
+    border-radius: 5px;
+}
+
+.form-signin {
+    max-width: 420px;
+    padding: 30px 38px 66px;
+    margin: 0 auto;
+    background-color: #eee;
+    border: 3px dotted rgba(0,0,0,0.1);  
+    }
+  
+  .form-signin-heading {
+    text-align:center;
+    margin-bottom: 30px;
+  }
+
+<<<<<<< HEAD
+  .centro {}
+  
+=======
+  .navBar {
+      padding-left: 20px;
+  }
+
+  .ButtonBar {
+      padding-left:850px;
+      
+      
+  }
+
+
+  .center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+>>>>>>> 53e32c7113f232980407f2dd2ebcc6e34c41e318
+
+
+
